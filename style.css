@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif !important;
+    background-color: #2e2e2e !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.bg-summary{
+    background-color: #272727;
+    padding-bottom: 24px;
+}
+
+.summary{
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 36px;
+}
+
+.summary h1{
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+
+.concern {
+    font-size: 24px;
+    font-weight: 300;
+    color:rgb(241, 241, 241);
+    margin-bottom: 12px;
+}
+
+.concern a, .concern a:hover, .concern a:visited{
+    text-decoration: none;
+    margin-top: 4px;
+    color :rgb(76, 215, 240);
+}
+
+img{
+    height: 200px;
+    border-radius: 5%;
+}
+
+.desc{
+    font-size: 18px;
+    font-weight: 300;
+    color:rgb(241, 241, 241);
+    padding-left: 14px;
+    text-align: left;
+    margin-bottom: 12px;
+}
+
+.title{
+    font-weight: 600;
+    font-size: 36px;
+    margin-top: 24px;
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+.group-progress, .group-experience, .group-education, .group-certification{
+    margin-bottom: 16px;
+}
+
+.sub-title{
+    font-weight: 300;
+    font-size: 18px;
+    margin-bottom: 8px;
+    text-align: left;
+}
+
+.progress-bar {
+    color: #000000;
+}
+
+
+.year{
+    float: left;
+    border-left: 3px solid rgb(76, 215, 240);
+    padding-left: 12px;
+}
+
+
+.place, .name{
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(76, 215, 240);
+    text-align: right;
+}
+
+.job, .edu, .organizer{
+    font-size: 16px;
+    font-weight: 300;
+    text-align: right;
+    margin-top: 4px;
+}
+
+.country{
+    font-size: 12px;
+    font-weight: 300;
+    color:rgb(241, 241, 241);
+    text-align: right;
+}
+
+.footer{
+    padding: 24px 0;
+    text-align: center;
+    background-color: #272727;
+    font-size: 16px;
+}
+
+.contact a, .contact a:hover, .contact a:visited{
+    text-decoration: none;
+    margin-top: 4px;
+    color :rgb(76, 215, 240);
+}
